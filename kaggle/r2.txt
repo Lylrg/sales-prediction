@@ -1,0 +1,2 @@
+# Predict on the test set
+R-squared (R2): 0.9602627057676304
